@@ -4,6 +4,19 @@ This repositories contains notebooks of projects from the Algorithmic Machine Le
 Those notebooks required to address several challenges, that can be roughly classified in:
 
 Data preparation and cleaning
+
 Building descriptive statistics of the data
+
 Working on a selected algorithm, e.g., for building a statistical model
+
 Working on experimental validation
+
+The subject covered by the notebooks are:
+
+Building a Music Recommendation System
+
+House Pricing Prediction
+
+Plankton image classification
+
+Anomaly detection in IT systems
